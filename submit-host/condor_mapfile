@@ -1,0 +1,6 @@
+GSI "^\/C\=UK\/ST\=Oxfordshire\/O\=STFC\/CN\=condor\-test01\.gridpp\.rl\.ac\.uk" condor
+GSI "^\/C\=UK\/ST\=Oxfordshire\/O\=STFC\/CN\=condor\-test02\.gridpp\.rl\.ac\.uk" submitter
+GSI "^\/C\=UK\/ST\=Oxfordshire\/O\=STFC\/CN\=cloud01\.gridpp\.rl\.ac\.uk" worker
+GSI "^\/C\=UK\/ST\=Oxfordshire\/O\=STFC\/CN\=submit01\.gridpp\.rl\.ac\.uk" user
+GSI (.*) anonymous
+FS (.*) \1
