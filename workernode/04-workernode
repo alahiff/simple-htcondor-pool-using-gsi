@@ -1,0 +1,5 @@
+DAEMON_LIST = MASTER, STARTD
+
+# We don't want to have a unique certificate per worker
+GSI_SKIP_HOST_CHECK = TRUE
+DISABLE_AUTHENTICATION_IP_CHECK = TRUE
